@@ -1,11 +1,8 @@
-Next things tp be implemented in this app
+<a href="https://app.daily.dev/Priyansh_sharma"><img src="https://github.com/Priyanshsharma21
+/Priyanshsharma21
+/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
-1. With this current api show more information
-2. Create new endpoint
-3. Use youtube api and whatever user search for the music on music page show its music video
-
-
-
-
-Artist details more data can be used 
-1. 
+Mulabel is an full stack web music application made using reactjs, redux, redux toolkit, shazam
+core, YouTube v3 & Spotify API, tailwind css, framer motion and many more libraries used. user
+can listen to any song, search by user, category, name. Listen to any possible song,
+lyrics,Songs around them, top artist, music videos, artist albums, podcasts etc.
